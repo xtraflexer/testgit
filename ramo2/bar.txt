@@ -1,1 +1,2 @@
 prima linea di codice inserita
+# sudo dnf install make automake gcc kernel-devel java git gnupg zip curl glibc-devel.i686 ncurses-devel.i686 ncurses-devel.x86_64 glib glib-devel.i686 libstdc++.i686 zlib-devel.i686 libX11-devel.i686 libX11-devel.x86_64 libXrender.i686 libXrandr.i686 mesa-libGL-devel.i686 readline-devel.i686 python-markdown xmlto ant zlib.i686 ncurses-libs.i686 ncurses-libs.x86_64 SDL.i686 SDL.x86_64 libXrandr.x86_64 fontconfig.i686
